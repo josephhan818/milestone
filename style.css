@@ -21,10 +21,10 @@ body{
 }
 /*@media {
 /*nav選單*/
-	/*.navbar{
+.navbar{
 	padding-left:50px!important;
 	padding-right:50px!important; 
-}*/
+}
 
 .banner {
 	margin-top: 76px;
