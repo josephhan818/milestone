@@ -19,19 +19,25 @@ p {
 body{
 	background-color: gray;
 }
-/*@media {
+@media {
 /*nav選單*/
-.navbar{
+	.navbar{
 	padding-left:50px!important;
 	padding-right:50px!important; 
 }
+/*nav選單*/
+.navbar-brand img {
+	height: 50px;
+}	
 
+/*banner*/
 .banner {
 	margin-top: 76px;
 }
 .banner .container-fluid {
 	padding:0!important;
 }
+
 .about {
 	padding:100px 0;
 	background:linear-gradient(gray,black); -->
@@ -93,7 +99,7 @@ body{
 	justify-content:center;
 }
 img{
-	width: 330px;
+	width: 200px;
 }
 
 .product_name{
@@ -114,6 +120,13 @@ video{
 footer{
 	background-color: black;
 }
+
+
+
+
+
+
+
 
 
 
